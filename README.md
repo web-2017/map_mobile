@@ -1,4 +1,3 @@
 # map_mobile
 
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/a6dOQ2iShUE]))
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=a6dOQ2iShUE)
